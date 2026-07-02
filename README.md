@@ -3,7 +3,7 @@ A classic Snake Game built in Java using Swing. The project demonstrates event-d
 ## 🎮 Demo
 
 <p align="center">
-  <img src="images/game.gif.gif" alt="Snake Game Demo" width="600">
+  <img src="images/game.gif.gif" alt="Snake Game Demo" width="450">
 </p>
 
 ## 📸 Screenshots
