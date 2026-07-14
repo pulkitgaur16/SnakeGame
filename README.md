@@ -78,7 +78,3 @@ This project recreates the classic Snake Game using Java Swing. It demonstrates 
 ## 🙏 Acknowledgements
 
 This project was developed as a learning exercise to strengthen Java GUI programming and game development fundamentals. Inspired by the classic Snake game.
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
